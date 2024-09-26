@@ -1,0 +1,27 @@
+.nav_container {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #212229;
+  width: 5%;
+  height: 90vh;
+  padding: 36px 28px;
+}
+.nav_btn {
+  display: flex;
+  align-items: center;
+  padding: 10px 0 10px 10px;
+  /* width: 100%; */
+  margin-left: 5px;
+
+  margin-bottom: 2vh;
+  /* color: rgba(193, 14, 14, 0.5); */
+}
+
+.nav_btn img{
+  margin-left: 12px;
+}
+.nav_btn span {
+  margin-right: 10px;
+}

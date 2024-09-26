@@ -1,0 +1,14 @@
+.App {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  min-height: 100vh;
+  background-color: #131517;
+}
+a {
+  text-decoration: none;
+}
+ul,
+li {
+  list-style: none;
+}

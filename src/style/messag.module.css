@@ -1,0 +1,95 @@
+.cust_container {
+    margin-top: -20px;
+    padding: 50px;
+    /* border: 1px solid white; */
+    background-color: #26272f;
+    height: 100vh;
+    position: fixed;
+}
+
+.search_container {
+    position: relative;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.grey{
+    color: #D2D2D2;
+}
+
+.search_container img {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.namePass {
+    color: white;
+    font-size: 30px;
+}
+
+.cust_container input {
+    border-radius: 5px;
+    padding: 10px 15px;
+    border: none;
+    background-color: #343232;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.card_numb {
+    /* border: 1px solid white; */
+    align-items: center;
+    width: 100%;
+    cursor: pointer;
+}
+
+.allFlexTop {
+    display: flex;
+    margin-top: 10px;
+}
+
+.name_pers {
+    color: white;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.oclock {
+    margin-left: 50px;
+    color: #A9ABAD;
+    font-size: 13px;
+}
+
+.contForTop {
+    display: flex;
+    margin-top: -20px;
+    margin-left: 20px;
+    font-size: 13px;
+    color: #258C60;
+}
+
+.card_numb img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    object-fit: contain;
+    margin-top: 23px;
+}
+
+.now_povidomlen {
+    margin-left: 130px;
+    display: inline-block;
+    color: white;
+    border-radius: 50%;
+    padding: 5px;
+    background-color: #D34141;
+}
+
+.flex {
+    display: flex;
+}

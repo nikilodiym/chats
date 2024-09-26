@@ -1,0 +1,10 @@
+.layout_container {
+  width: 530px;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+}
+.outlet_container {
+  width: 80%;
+  padding: 3%;
+}

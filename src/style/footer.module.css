@@ -1,0 +1,16 @@
+.login_info {
+  display: block;
+  align-items: center;
+  font-size: 13px;
+  margin-left: 5px;
+}
+.login_info img {
+  width: 50%;
+  border-radius: 20%;
+  margin-right: 5%;
+  cursor: pointer;
+}
+
+.nameProf{
+  color: white;
+}
